@@ -73,6 +73,6 @@ for (let key in obj) {
     // This line outputs the key and value 
     // of each property in the object 'obj' 
     // to the console.
-    
+
 }
 
